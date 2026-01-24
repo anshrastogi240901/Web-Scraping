@@ -29,6 +29,8 @@ For **each school**, the scraper extracts the following **7 columns** exactly as
 6. ADDRESS  
 7. DETAILS  
 
+(Update: Code snippet added to scrap data from Details page of each school by passing an excel notebook with the affiliations codes)
+
 Total records scraped: **~4674 schools (Uttar Pradesh)**
 
 ---
